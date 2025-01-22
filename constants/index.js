@@ -1,0 +1,3 @@
+export const supabaseUrl = 'https://ysqufditbnrqisuspore.supabase.co'
+export const supabaseAnonKey = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InlzcXVmZGl0Ym5ycWlzdXNwb3JlIiwicm9sZSI6ImFub24iLCJpYXQiOjE3Mzc0NjQyNDIsImV4cCI6MjA1MzA0MDI0Mn0.PZxey_Eao9awTiI1L5D_U009jsozbsF5pupQTL8PmPs'
+import 'react-native-url-polyfill/auto';
